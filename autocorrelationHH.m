@@ -1,3 +1,5 @@
+% add description of the function
+
 function out=autocorrelationHH(data)
 
 n=length(data);
