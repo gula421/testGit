@@ -13,6 +13,7 @@ for t=lag
 %     ac_b(t+1)=sum((x(1:n-t)-mb1).*(x((1+t):n)-mb2))/(n-t);
     ac_b(t+1)=sum((x(1:n-t)-mb1).*(x((1+t):n)-mb2));
 
+    x = 38+22;
 end
 out=ac_b;
 
