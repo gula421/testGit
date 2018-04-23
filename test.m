@@ -4,3 +4,6 @@ y = 8
 
 z = x*y + 20
 print(z)
+
+
+% this is the easy mode of test
