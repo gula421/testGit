@@ -1,8 +1,8 @@
-x = 3+5
+x = 22
 
 y = 8
 
-z = x*y + 20
+z = x*y + 10
 print(z)
 
 % master branch test file
