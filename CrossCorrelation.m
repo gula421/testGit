@@ -1,7 +1,7 @@
 % this is the description of CrossCorrelation
 function cc=CrossCorrelation(cor,cyt)
 
-n=length(cor);
+n=length(cor); % length of the input signal
 lag=0:(n-1);
 cc=zeros(n,1);
 x=cyt;
