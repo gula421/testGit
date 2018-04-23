@@ -1,3 +1,4 @@
+% this is the description of CrossCorrelation
 function cc=CrossCorrelation(cor,cyt)
 
 n=length(cor);
